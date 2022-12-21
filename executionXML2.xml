@@ -1,0 +1,10 @@
+<suite name="SDET course xml file">
+<test name="Execution: Activity 2 -> Facebook automation use of case. By Carlos Acevedo">
+
+<classes>
+	<class name="SDET_java_maintenanceUnosquare.sdet_java.FacebookTestCases"/>
+</classes>
+
+
+</test>
+</suite>

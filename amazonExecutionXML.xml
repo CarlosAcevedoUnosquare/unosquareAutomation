@@ -1,0 +1,10 @@
+<suite name="SDET course xml file">
+<test name="Execution: Exercise Automation -> Amazon Test Case Automation. By Carlos Acevedo">
+
+<classes>
+	<class name="SDET_java_maintenanceUnosquare.sdet_java.AmazonTestCases"/>
+</classes>
+
+
+</test>
+</suite>

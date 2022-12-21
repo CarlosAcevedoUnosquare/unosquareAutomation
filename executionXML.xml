@@ -1,0 +1,10 @@
+<suite name="SDET course xml file">
+<test name="Release name in here - 2022 SDET course">
+
+<classes>
+	<class name="SDET_java_maintenanceUnosquare.sdet_java.AppleTest"/>
+</classes>
+
+
+</test>
+</suite>

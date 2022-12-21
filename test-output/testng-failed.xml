@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SDET course xml file]">
+  <test thread-count="5" name="Execution: Exercise TestNG -&gt; Amazon Test Case Automation. By Carlos Acevedo(failed)">
+    <classes>
+      <class name="SDET_java_maintenanceUnosquare.sdet_java.AmazonTestCases">
+        <methods>
+          <include name="amazon_end_to_end_flow"/>
+        </methods>
+      </class> <!-- SDET_java_maintenanceUnosquare.sdet_java.AmazonTestCases -->
+    </classes>
+  </test> <!-- Execution: Exercise TestNG -> Amazon Test Case Automation. By Carlos Acevedo(failed) -->
+</suite> <!-- Failed suite [SDET course xml file] -->

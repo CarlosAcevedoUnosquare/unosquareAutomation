@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T12:40:08 CST" name="SDET course xml file" finished-at="2022-12-20T12:41:13 CST" duration-ms="65274">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T12:40:08 CST" name="Execution: Exercise Automation -&gt; Amazon Test Case Automation. By Carlos Acevedo" finished-at="2022-12-20T12:41:13 CST" duration-ms="65274">
+      <class name="SDET_java_maintenanceUnosquare.sdet_java.AmazonTestCases">
+        <test-method signature="amazon_end_to_end_flow()[pri:0, instance:SDET_java_maintenanceUnosquare.sdet_java.AmazonTestCases@3c419631]" started-at="2022-12-20T12:40:08 CST" name="amazon_end_to_end_flow" finished-at="2022-12-20T12:41:13 CST" duration-ms="65168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_end_to_end_flow -->
+      </class> <!-- SDET_java_maintenanceUnosquare.sdet_java.AmazonTestCases -->
+    </test> <!-- Execution: Exercise Automation -> Amazon Test Case Automation. By Carlos Acevedo -->
+  </suite> <!-- SDET course xml file -->
+</testng-results>
