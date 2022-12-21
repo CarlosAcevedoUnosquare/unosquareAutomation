@@ -1,13 +1,5 @@
-# sdet_java_MaintenanceUnosquare
-The purpose of this Test Case is to complete the following flow
+# Copy of sdet_java_MaintenanceUnosquare on this repo
 
-Go to https://people.unosquare.com/
+This is a copy of the repo https://github.com/luisosuna/sdet_java_MaintenanceUnosquare
 
-Click on the 3 dot menu
-
-Click on About Us
-
-Click on Personal
-
-Note:
-Add complementary methods needed such as clicks and sendKeys.
+The purpose of this repository is to have a place as evidence for SDET course.
